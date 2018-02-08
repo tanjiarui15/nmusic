@@ -20,7 +20,7 @@
 
         <TextView
             android:id="@+id/notification_song"
-            android:layout_width="200dp"
+            android:layout_width="150dp"
             android:layout_height="32dp"
             android:layout_marginLeft="@dimen/x6"
             android:ellipsize="marquee"
@@ -30,7 +30,7 @@
 
         <TextView
             android:id="@+id/notification_singer"
-            android:layout_width="200dp"
+            android:layout_width="150dp"
             android:layout_height="32dp"
             android:layout_marginLeft="@dimen/x6"
             android:layout_marginTop="@dimen/x2"

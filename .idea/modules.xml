@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\10549\coding\android\nmusic\app\app.iml" filepath="C:\Users\10549\coding\android\nmusic\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/nmusic.iml" filepath="$PROJECT_DIR$/nmusic.iml" />
+      <module fileurl="file://C:\Users\10549\coding\android\nmusic\nmusic.iml" filepath="C:\Users\10549\coding\android\nmusic\nmusic.iml" />
     </modules>
   </component>
 </project>

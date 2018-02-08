@@ -6,7 +6,7 @@ android {
     defaultConfig {
         applicationId "com.mran.nmusic"
         minSdkVersion 21
-        targetSdkVersion 24
+        targetSdkVersion 23
         versionCode 3
         versionName "1.2"
         renderscriptTargetApi 21
